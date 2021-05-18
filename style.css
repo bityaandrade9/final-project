@@ -401,10 +401,6 @@ footer{
   }
 
 
-@media only screen and (max-width: 1000px){
-  .container{
-    padding: 0 4%;
-  }
 
 
 /* .centerItem{{ display: flex; flex-direction: column; justify-content: center; 
